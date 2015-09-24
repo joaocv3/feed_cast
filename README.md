@@ -1,6 +1,9 @@
 # FeedCast
-> :headphones: Listen to all your favorite podcasts on the same place
+> :headphones: Listen to all your favorite podcasts at the same place
 > [http://play.feedcast.com.br](http://play.feedcast.com.br)
+
+> More than just listening, you can follow trending podcasts, create a favorites list and save the progress of the episode you are listening to. The 2.0 version is right around the corner.
+
 
 ## Contributing
 
